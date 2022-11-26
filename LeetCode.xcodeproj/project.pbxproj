@@ -141,6 +141,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1410;
+				ORGANIZATIONNAME = "Vitalii Ivashchenko";
 				TargetAttributes = {
 					FA9D44B129321AA800EC37FB = {
 						CreatedOnToolsVersion = 14.1;
